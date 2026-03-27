@@ -9,3 +9,5 @@
 과제2 : ML / CNN
 
 과제3 : RNN / Transformer
+
+과제4 : Generative Model
